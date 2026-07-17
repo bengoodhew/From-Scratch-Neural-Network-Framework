@@ -1,0 +1,19 @@
+seed : 0
+
+datasetFolder : "cifar-10"
+datasetClasses : ['airplane', 'ship', 'automobile', 'frog', 'horse']
+dataSplit : 0.8
+
+batchSize : 64
+
+trainModel : True
+numEpochs : 116
+learningRate : 0.1
+
+testModel : True
+
+saveFolder : "deep"
+loadModel : False
+
+loss : "CrossEntropyLossWithSoftMax"
+ModelType : 1

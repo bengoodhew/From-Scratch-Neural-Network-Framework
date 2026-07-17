@@ -1,0 +1,1 @@
+New best at epoch: 115 with validation: 0.797666

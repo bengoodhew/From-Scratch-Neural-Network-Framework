@@ -1,0 +1,14 @@
+# Dataset
+dataset/cifar-10/
+
+# Virtual environments
+venv/
+.venv/
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
